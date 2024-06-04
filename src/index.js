@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import NavbarComp from './navbar';
-import App from './app';
+import App from './App';
 import FaqComp from './footer';
 import './main.css';
 
